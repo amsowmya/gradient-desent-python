@@ -6,6 +6,7 @@ Gradient-descent is an optimization technique
 Sigmoid activation function:
 
 sigmoid = 1 / (1 + e^-x)
+
 derivative of sigmoid = s(x) * (1 - s(x))
 
 sigmoid value range between : 0 to 1
